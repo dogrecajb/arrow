@@ -23,7 +23,7 @@
   <description>Java implementation of Arrow Dataset API/Framework</description>
   <properties>
     <arrow.cpp.build.dir>../../../cpp/release-build/</arrow.cpp.build.dir>
-    <parquet.version>1.13.1</parquet.version>
+    <parquet.version>1.14.1</parquet.version>
     <avro.version>1.11.3</avro.version>
   </properties>
 
